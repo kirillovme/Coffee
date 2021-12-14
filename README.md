@@ -1,2 +1,2 @@
 # CoffeeApplication
- Android application
+ Android application. Coffee order bucket.
